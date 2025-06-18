@@ -1,0 +1,8 @@
+User: hi
+Bot: Hello! How can I help you?
+
+User: am zara
+Bot: Nice to meet you, Zara!
+
+User: quit
+Bot: Goodbye!
