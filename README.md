@@ -16,12 +16,8 @@ This project demonstrates how to build and deploy a chatbot using:
 - Dynamic responses with DialoGPT-small
 -  Simple Gradio UI for interaction
 - Runs on CPU (no GPU required)
---
-### Prerequisites
-- Python 3.8 or higher
-- pip (Python package installer)
   
-Deployment
+#Deployment
 This chatbot is deployed as a Hugging Face Space. The requirements.txt ensures the necessary libraries are installed during deployment.
 deployment was on colab notebook for 7 days only:  https://df987044db541eb781.gradio.live
 
@@ -37,6 +33,10 @@ Conversation history is limited and not optimized for long interactions
 Plans to improve prompt formatting and switch to more powerful models
 Adding features like chat history saving, reset button, and better UI styling
 Face problem in deploment in hugging face 
+###Prerequisites
+- Python 3.8+
+- `pip` (Python package manager)
+
 ### Installation
 
 1. Clone the repository:
