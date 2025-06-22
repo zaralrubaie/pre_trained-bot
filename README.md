@@ -1,26 +1,23 @@
 pre_trained-bot
-# Simple Rule-Based Chatbot with DialoGPT
-# Chatbot with Hugging Face Transformers and Gradio
+
 ## Project Overview
+# Simple Rule-Based Chatbot with DialoGPT
+A lightweight chatbot built with Hugging Face Transformers and Gradio. It combines predefined rule-based responses with a pretrained model (`DialoGPT-small`) to handle open-ended conversations.
+This project demonstrates how to build and deploy a chatbot using:
 
-This project is a simple chatbot built using the Hugging Face Transformers library and Gradio for the web interface. It uses Microsoft's DialoGPT-small model to generate conversational responses and includes a set of predefined rules for common greetings and questions.
-
-The chatbot is deployed as a Hugging Face Space, demonstrating deployment of NLP models with an interactive UI.
-
----
-
+- [🤗 Transformers](https://huggingface.co/transformers/)
+- [Gradio](https://gradio.app/) for the web UI
+ It includes:
+- Rule-based responses for common greetings
+- Generative replies for other questions using DialoGPT-small
+   
 ## Features
-
-- Predefined responses for common greetings and questions
-- Open-ended response generation using DialoGPT-small
-- Easy-to-use chat interface built with Gradio
-- Lightweight and runs on CPU
-
----
-
-## Getting Started
+- Predefined responses for greetings and FAQs
+- Dynamic responses with DialoGPT-small
+-  Simple Gradio UI for interaction
+- Runs on CPU (no GPU required)
+--
 ### Prerequisites
-
 - Python 3.8 or higher
 - pip (Python package installer)
   
@@ -45,8 +42,8 @@ Face problem in deploment in hugging face
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/zaralrubaie/pre_trained-bot.git
-cd pre_trained-bot
+git clone https://github.com/yourusername/nino-chatbot.git
+cd nino-chatbot
 
 Contact:
 Zahraa— engzahra0083@gmail.com
