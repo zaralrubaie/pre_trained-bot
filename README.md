@@ -26,7 +26,7 @@ The chatbot is deployed as a Hugging Face Space, demonstrating deployment of NLP
   
 Deployment
 This chatbot is deployed as a Hugging Face Space. The requirements.txt ensures the necessary libraries are installed during deployment.
-deployment link: https://huggingface.co/spaces/zahraa12355/chatbot2
+deployment was on colab notebook for 7 days only:  https://df987044db541eb781.gradio.live
 
 Usage:
 Type messages into the chat box
@@ -39,7 +39,7 @@ laptop couldnt handle large models to train better bots
 Conversation history is limited and not optimized for long interactions
 Plans to improve prompt formatting and switch to more powerful models
 Adding features like chat history saving, reset button, and better UI styling
-
+Face problem in deploment in hugging face 
 ### Installation
 
 1. Clone the repository:
