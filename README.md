@@ -1,11 +1,10 @@
 pre_trained-bot
 
 ## Project Overview
-# Simple Rule-Based Chatbot with DialoGPT
-A lightweight chatbot built with Hugging Face Transformers and Gradio. It combines predefined rule-based responses with a pretrained model (`DialoGPT-small`) to handle open-ended conversations.
+Simple Rule-Based Chatbot with DialoGPT,a lightweight chatbot built with Hugging Face Transformers and Gradio. It combines predefined rule-based responses with a pretrained model (`DialoGPT-small`) to handle open-ended conversations.
 This project demonstrates how to build and deploy a chatbot using:
 
-- [🤗 Transformers](https://huggingface.co/transformers/)
+- [Transformers](https://huggingface.co/transformers/)
 - [Gradio](https://gradio.app/) for the web UI
  It includes:
 - Rule-based responses for common greetings
