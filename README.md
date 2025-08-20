@@ -41,7 +41,7 @@ Face problem in deploment in hugging face
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/nino-chatbot.git
+git clone https://github.com/zaralrubaie/pre_trained-bot.git
 cd nino-chatbot
 
 Contact:
