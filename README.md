@@ -1,4 +1,4 @@
-# Pre_Trained Bot - Rule-Based + DialoGPT Chatbot 🤖💬
+# Pre_Trained Bot - Rule-Based + DialoGPT Chatbot 
 
 [![Python](https://img.shields.io/badge/python-3.8+-blue)](https://www.python.org/)  
 [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-Spaces-orange)](https://huggingface.co/)
@@ -21,10 +21,9 @@ The bot includes:
 
 ## 🔹 Features
 
-- Predefined responses for greetings and FAQs  
-- Dynamic responses via DialoGPT-small  
-- Simple Gradio UI for interaction  
-- Runs on CPU (no GPU required)  
+- Predefined responses for greetings and FAQs
+- Dynamic responses via DialoGPT-small
+- Simple and intuitive web interface powered by Gradio
 
 ---
 
@@ -83,6 +82,13 @@ pip install -r requirements.txt
  ```bash
 python app.py
 ```
+##  🔹 Skills Demonstrated
+
+- Natural Language Processing (NLP)
+- Transformer-based models (DialoGPT-small)
+- Rule-based logic implementation
+- Web application development with Gradio
+  
 ## 🔹 Project Structure
 - app.py - Main application file with Gradio interface
 - requirements.txt - Python dependencies
